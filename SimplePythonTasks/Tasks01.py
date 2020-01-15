@@ -40,3 +40,36 @@ from math import pi
 #print("w: " + str(w))
 
 #zad11
+#def my_fun():
+    #'''Returns 1'''
+    #return 1
+
+#print(abs.__doc__)
+#print(my_fun.__doc__)
+#print(int.__doc__)
+
+#zad12
+#import calendar 
+#mon = int(input("Month: "))
+#year = int(input("Year: "))
+#print(calendar.month(year, mon))
+
+#zad13
+#str1 = '''a string that you "don't" have to escape
+#This
+#is a ....... multi-line
+#heredoc string --------> example'''
+#print(str1)
+
+#zad14
+#Sample dates : (2014, 7, 2), (2014, 7, 11)
+#Expected output : 9 days 
+
+#date1 =  datetime.date(2014, 7, 2)
+#date2 = datetime.date(2014, 7, 11)
+#print(date2 - date1)
+
+#zad15
+r = 6
+V = (4.0/3.0) * pi * r**3
+print("V: " + str(V))
