@@ -70,6 +70,50 @@ from math import pi
 #print(date2 - date1)
 
 #zad15
-r = 6
-V = (4.0/3.0) * pi * r**3
-print("V: " + str(V))
+#r = 6
+#V = (4.0/3.0) * pi * r**3
+#print("V: " + str(V))
+
+#zad16
+#num = int(input("num: "))
+#w = abs(num - 17)
+#if num > 17:
+    #w = w*2
+#print("Diff: " + str(w))
+
+#zad17
+#def near(num):
+    #if ((abs(num-1000) <= 100) or (abs(num-2000) <= 100)):
+        #return True
+    #else:
+        #return False
+    
+#print(near(1000))
+#print(near(900))
+#print(near(800))
+#print(near(2200))
+
+#zad18
+#n1 = int(input("n1: "))
+#n2 = int(input("n2: "))
+#n3 = int(input("n3: "))
+#s1 = n1 + n2 + n3 
+#if n1 == n2 and n2 == n3:
+    #s1 = s1 * 3
+#print("s1: " + str(s1))
+
+#zad19
+#def ret_str(str1):
+    #if len(str1)>2 and str1[:2] == "Is":
+        #return str1
+    #else:
+        #return "Is" + str1 
+    
+#print(ret_str("Array"))
+#print(ret_str("IsEmpty"))
+
+#zad20
+n1 = int(input("n1: "))
+str1 = str(input("str1: "))
+
+    
