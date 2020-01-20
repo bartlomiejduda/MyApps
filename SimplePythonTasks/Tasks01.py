@@ -113,7 +113,35 @@ from math import pi
 #print(ret_str("IsEmpty"))
 
 #zad20
-n1 = int(input("n1: "))
-str1 = str(input("str1: "))
+#n1 = int(input("n1: "))
+#str1 = str(input("str1: "))
+#str_res = ""
+#if n1 > 0:
+    #for i in range(n1):
+        #str_res += str1 
+#print("str_res: " + str_res)
 
+#zad21
+#def odd_even(num):
+    #if num % 2 == 0:
+        #return "even"
+    #else:
+        #return "odd"
+
+#n1 = int(input("n1: "))
+#print("Num " + str(n1) + " is " + odd_even(n1))
+
+
+#zad22
+#def c_num(nums):
+    #count = 0
+    #for num in nums:
+        #if num == 4:
+            #count += 1
+    #return count
+
+#print("count: " + str(c_num([1, 2, 3, 4])))
+#print("count: " + str(c_num([4, 2, 3, 4, 4])))
     
+    
+#zad23
