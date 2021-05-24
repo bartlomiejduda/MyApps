@@ -1,2 +1,2 @@
 # MyApps
-My Apps
+Simple Python applications
